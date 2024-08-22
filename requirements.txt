@@ -1,4 +1,5 @@
 Pandas
 numpy
 seaborn
--e .
+matplotlib
+# -e .
